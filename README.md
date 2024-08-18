@@ -8,3 +8,4 @@ Os dados referentes às AISPs são adquiridos através da URL do [ArcGIS REST Se
 
 Todos os dados são obtidos do portal IDE do Rio de Janeiro.
 
+Requisitos: Node.js para executar o geojsonsender.js.
