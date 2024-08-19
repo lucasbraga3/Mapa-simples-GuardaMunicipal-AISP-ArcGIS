@@ -86,7 +86,7 @@ require(["esri/Map", "esri/views/MapView","esri/layers/FeatureLayer","esri/widge
     });
     const expand = new Expand({
       view: view,
-      content: document.getElementById("infoDiv"),
+      content: legend,
       expanded: true
   });
   layerbatalhoes.on("layerview-create-error", function(event) {
